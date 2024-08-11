@@ -31,7 +31,7 @@ La direccion default del GY521 es (0x68) y la alterna en caso de que no funcione
 
 ¿Como funciona el ejemplo?
 
-Si todo funciona de manera correcta en la terminal a 115200 baudios deberia poder observar la salida del GY521. El al ser presionado debe encender el LED que se encuentra en la cabeza de la varita. Ejemplo:
+Si todo funciona de manera correcta en la terminal a 115200 baudios deberia poder observar la salida del GY521. Al ser presionado el boton debe encender el LED que se encuentra en la cabeza de la varita. Ejemplo:
 ![IMG_3368](https://github.com/user-attachments/assets/0393371c-87f1-4b95-b10b-5476692fc6e6)
 
 
